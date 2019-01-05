@@ -19,8 +19,8 @@ up and run the program.
 
 To compile and run the project follow these steps:
 
-Using the bash terminal run all the .mk files. So: ./fileName.mk
-After you've done that run the Particle Fire Explosion file. Like this: ./Particle\ Fire\ Explosion
+Using the bash terminal run all the .mk files. So: ./fileName.mk.
+After you've done that run the Particle Fire Explosion file. Like this: ./Particle\ Fire\ Explosion.
 If the program doesn't execute try changing the name of the Source file folder to src.
 If that doesn't work please report it as a problem.
 
