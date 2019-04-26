@@ -3,7 +3,7 @@ This is a project that's programmed in C++, using the SDL library. It uses trigo
 a first generation engine for rendering particles.
 
 The screen width and screen height are set to 1600 and 800 respectivly meaning that if you have another preferred resolution
-you can go on screen.h and change the constant variables SCREEN_WIDTH AND SCREEN_HEIGHT to your preferred resolution.
+you can go on screen.h and change the constant variables SCREEN_WIDTH AND SCREEN_HEIGHT.
 
 Next up the files are managed in this way:
 
