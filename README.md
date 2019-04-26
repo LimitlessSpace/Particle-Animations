@@ -16,14 +16,3 @@ Particle.h and Particle.cpp handle the particles behaviour, so for example their
 Screen.h and Screen.cpp handle creating the window, displaying the particles and updating them. It also contains the blur algorithem.
 main.cpp contains the game loop and it's the loop where the program executes and it's the place where all the functions cluster
 up and run the program.
-
-To compile and run the project follow these steps:
-
-Using the bash terminal run all the .mk files. So: ./fileName.mk.
-After you've done that run the Particle Fire Explosion file. Like this: ./Particle\ Fire\ Explosion.
-If the program doesn't execute try changing the name of the Source file folder to src.
-If that doesn't work please report it as a problem.
-
-For any code improvments and efficency please report it as an issue. I will gladly take a look at them!
-
-So this is the whole project. I hope you like it and enjoy it.
